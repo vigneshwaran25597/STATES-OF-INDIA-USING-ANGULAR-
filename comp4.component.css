@@ -1,0 +1,43 @@
+article{
+    
+    height: 398px;
+    width: 250px;
+    float: right;
+    margin-top:-400px;
+    
+}
+div{
+    height: 388px;
+    width: 240px;
+    background-image: url(nightsky.jpg);
+    position: absolute; 
+}
+.one{
+    height: 100px;
+    width: 240px;
+    margin-top: 50px;
+}
+.two{
+    height: 20px;
+    width: 100px;
+    margin:280px 0px 0px 80px;
+}
+h2{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+
+}
+h5{
+    color:lightgoldenrodyellow;
+    text-align: center;
+}
+a{
+    color: lightgreen;
+    border: 1px solid lightgreen;
+    padding: 5px; 
+}
+h4{
+    text-align: center;
+    color: lightskyblue;
+}

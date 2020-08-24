@@ -1,0 +1,26 @@
+section{
+   
+    height: 396px;
+    width: 250px;
+   
+}
+
+tr,td{
+    height: 34px;
+    width: 250px;
+    text-align: center;
+    font-weight: bolder; 
+}
+div{
+    height: 390px;
+    width: 250px;
+    background-color:cadetblue;
+    margin-top: 5px;
+}
+a:hover{
+   color:black;
+   
+}
+a{
+    color: white;
+}
