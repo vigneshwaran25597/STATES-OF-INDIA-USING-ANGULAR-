@@ -1,0 +1,23 @@
+
+aside{
+    
+    height: 380px;
+    width: 750px;
+    margin: -440px 0px 0px 260px;
+    overflow-y: scroll;
+   
+}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+    font-size: 18px;
+}
+
+li{
+    color: blue;
+}
+
+h3{
+    text-decoration: underline;
+}
