@@ -1,0 +1,21 @@
+aside{
+    
+    height: 380px;
+    width: 750px;
+    margin: -440px 0px 0px 260px;
+    overflow-y: scroll;
+}
+h3{
+    color:blue;
+    text-decoration: underline;
+}
+p{
+    text-indent: 25px;
+    font-size: 18px;
+    text-align: justify;
+}
+h4{
+    text-decoration: underline;
+}
+
+
