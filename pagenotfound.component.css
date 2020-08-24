@@ -1,0 +1,17 @@
+aside{
+    
+    height: 380px;
+    width: 750px;
+    margin: -440px 0px 0px 260px;
+    overflow-y: scroll;
+   
+}
+
+div{
+    border:1px solid red;
+    height: 375px;
+    width: 730px;
+}
+h1{
+    color: red;
+}
